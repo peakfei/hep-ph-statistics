@@ -1,8 +1,9 @@
-! python script to analysis the study tendency based on names of paper listed on arXiv
+# hep-ph-statistics
+Python script to analysis the study tendency based on names of paper listed on arXiv
 
-! this is just for hep-ph, if you want to analysis other area, please change url in function 'num_papers' and 'download_paper_names' 
+This is just for hep-ph, if you want to analysis other area, please change url in function 'num_papers' and 'download_paper_names' 
 
-#function descriptions:
+Function descriptions:
    name             |      function
    ---               | ---
  string_year          |   change year to the standard form used by arXiv, i.e, the last number of year
@@ -14,4 +15,4 @@
  asked_number_of_papers | return the number of paper satisfing keywords
 
 
-! if you have any question, please contact xiangqf@pku.edu.cn
+If you have any question, please contact xiangqf@pku.edu.cn
