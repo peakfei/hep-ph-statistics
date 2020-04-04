@@ -1,0 +1,399 @@
+ Beautiful Mirrors, Unification of Couplings and Collider Phenomenology
+ Coherence length and nuclear shadowing for transverse and longitudinal  photons
+ Variations on KamLAND: likelihood analysis and frequentist confidence  regions
+ The Sensitivity of a Lithium Experiment on Solar Neutrinos to the Mixing  Angle theta_{12}
+ Impact of Subleading Corrections on Hadronic B Decays
+ Power counting in baryon chiral perturbation theory including vector  mesons
+ mu problem in an extended gauge mediation supersymmetry breaking
+ Extracting short-distance physics from K_{L,S} -> pi0 e+ e- decays
+ Observables in the Quantum Field Theory of neutrino mixing and  oscillations
+ Pion absorption and rescattering in the ANP model revisited
+ Transverse Momentum Fluctuations from Clustering and Percolation of  Strings
+ Supersymmetric electroweak corrections to t bar{t} h associated  production at e+e- colliders
+ Worries and Hopes for SUSY in CKM Physics: The b to s Example
+ ee4fgamma, A program for e+e- -> 4f, 4fgamma with nonzero fermion masses
+ Curvaton Dynamics
+ Relativistic corrections to gluon fragmentation into spin-triplet S-wave  quarkonium
+ Neutrinos under Strong Magnetic Fields
+ Delta-to-N-gamma Coulomb Quadrupole Amplitude in PQCD
+ Rescattering Effects on DIS Parton Distributions
+ CMB constraints on non-thermal leptogenesis
+ Higgs-mediated muon-electron conversion process in supersymmetric seesaw  model
+ Dynamical origin of low-mass fermions in Randall-Sundrum background
+ Chiral quark model with relativistic kinematics
+ A QCD Axion from Higher Dimensional Gauge Field
+ Top Quark production dynamics
+ Heavy-quark condensate at zero- and nonzero temperatures for various  forms of the short-distance potential
+ Unitarity at the LHC energies
+ Super-heavy X particle decay and Ultra-High Energy Cosmic Rays
+ Lifetime Differences and CP Violation Parameters of Neutral B Mesons at  the Next-to-Leading Order in QCD
+ W-boson unitarity effects and oscillations in the neutral Kaon system
+ Soft Leptogenesis
+ Effects of the scalar FCNC in $b\to sl^+l^-$ transitions and  supersymmetry
+ TeV Physics from the Top Down
+ Neutrino Masses, Mixing and Neutrinoless Double-Beta Decay
+ Sugra Dark Matter
+ RS1, Custodial Isospin and Precision Tests
+ Stabilizing the invisible axion in 3-3-1 models
+ Towards a Realistic Model of Higgsless Electroweak Symmetry Breaking
+ QCD factorization for B->PP and B->PV decays
+ Estimate of SU(3) flavour symmetry breaking in B_s -> K^+ K^- vs. B_d ->  pi^+π^- decay
+ Measuring psi(3770) --> rho pi in e+e- experiment
+ Tracing very high energy neutrinos from cosmological distances in ice
+ Democratic Mass Matrices From Five Dimensions
+ Calibration processes for photon-photon colliders
+ The lowest order inelastic QED processes at polarized photon-electron  high energy collisions
+ Large Transverse Momenta in Statistical Models of High Energy  Interactions
+ Phenomenological Aspects of Heterotic Orbifold Models at One Loop
+ Spectral Index of Curvaton Perturbations in Flat Potential Inflation  Models
+ Group Theoretical Analysis of Light-Cone Dominated Hadronic Processes  and Twist Decomposition of Nonlocal Operators in Quantum Chromodynamics
+ Nuclear Structure Functions at Small x from Inelastic Shadowing and  Diffraction
+ Large Extra Dimensions and Decaying KK Recurrences
+ Gauge Coupling Unification and Neutrino Masses in 5D SUSY SO(10)
+ Invisible Z-Boson Decays at e+e- Colliders
+ Neutrino Oscillations, Solar Antineutrinos and the Solar Magnetic Fields
+ Addendum to: Solar neutrino oscillation parameters after first KamLAND  results
+ How Pomerons Meet in Coloured Glass
+ Parton-Hadron Duality in Unpolarised and Polarised Structure Functions
+ Neutral Pion Decay Width in a Hot and Dense Medium
+ The $Λ$(1600): A Strange Hybrid Baryon
+ Neutralino Pair Production and 3-Body Decays at $e^+e^-$ Linear  Colliders as Probes of CP Violation in the Neutralino System
+ Fermion Masses and Mixing in Extended Technicolor Models
+ Dynamical Symmetry Breaking in Randall-Sundrum Background
+ The Axialvector-Vector Amplitude and Neutrino Effective Charge in a  Magnetized Medium
+ SU(3) trits of orbifolded E_8 x E_8' heterotic string and supersymmetric  standard model
+ Magnetic moment of the rho-meson in QCD sum rules: perturbative  corrections
+ Correlations and Equilibration in Relativistic Quantum Systems
+ Bose-Einstein condensation in the canonical ensemble
+ Implications of $B_s\to μ^{+}μ^{-}$ in SO(10)-like Models
+ General analysis of CP violation in polarized (b -> d l^+ l^-) decay
+ Impact of the QCD four-quark condensate on in-medium spectral changes of  light vector mesons
+ Invalid Ward-Takahashi identities and broken unitarity of the SM
+ Bound q-bar q systems in the framework of two-body Dirac equations  obtained from different versions of 3D-reductions of the Bethe-Salpeter  Equations
+ The Theta+ (1540) as a heptaquark with the overlap of a pion, a kaon and  a nucleon
+ Gaussian Sum-Rule Analysis of Scalar Gluonium and Quark Mesons
+ High-Energy Constraints on the Direct Detection of MSSM Neutralinos
+ Saturation Physics in Heavy Ion Collisions
+ Dynamical Low-Mass Fermion Generation in Randall-Sundrum Background
+ On the origin of the large scale structures of the universe
+ Theoretical tools for a future e+e- linear collider
+ GRACE at ONE-LOOP: Automatic calculation of 1-loop diagrams in the  electroweak theory with gauge parameter independence checks
+ QCD axion and quintessential axion
+ What could be learnt from Positronium for Quarkonium?
+ BBN bounds on active-sterile neutrino mixing
+ Rate of photon production from hot hadronic matter
+ Hadronic Production of Thermal Photons
+ The resummation of inter-jet energy flow for gaps-between-jets processes  at HERA
+ Uncertainties of predictions from parton distributions. I: Theoretical  errors
+ Strangeness Production in Nuclear Matter and Expansion Dynamics
+ Coherent Production of Pairs of Parabosons of Order 2
+ Pairing of Parafermions of Order 2: Seniority Model
+ Yukawa Hierarchies From Extra Dimensions With Small FCNC
+ Neutrino Mass and the SU(2)_R Breaking Scale
+ Anomalous U(1) symmetry and lepton flavor violation
+ Top quark physics and QCD: Progress since the TESLA TDR
+ Higher Twist Effects in Hadronic B Decays
+ Vector Mesons on the Light Front
+ Radiative Neutrino Masses in a SUSY GUT Model
+ Hybrid meson production by electromagnetic and weak interactions in a  flux-tube simulation of lattice QCD
+ The "forbidden" decays of hybrid mesons to $πρ$ can be large
+ Final State Interactions in the Ds+ --> omega pi+ and Ds+ --> rho0 pi+  Decays
+ Radiative Penguin Decays from BABAR
+ Large Beyond-Leading-Order Effects in b -> s gamma in Supersymmetry with  General Flavor Mixing
+ Complementarity of a Low Energy Photon Collider and LHC Physics
+ The Tensor Current Divergence Equation in U(1) Gauge Theories is Free of  Anomalies
+ Soft-Gluon Resummation for Heavy Quark Production in Charged-Current  Deep Inelastic Scattering
+ ELRADGEN: Monte Carlo generator for radiative events in elastic  electron-proton scattering
+ The self-consistent bounce: an improved nucleation rate
+ Fragmentation functions of mesons in the Field-Feynman model
+ The renormalization group effect to the bi-maximal mixing
+ Anomalous U(1) D-term Contribution in Type I String Models
+ Neutrino production, oscillation and detection in the presence of  general four-fermion interactions
+ ICTP Lectures on Large Extra Dimensions
+ Point-like sources of Euclidean non-abelian field in the instanton  liquid
+ Pentaquark in the Skyrme Model
+ CP violation in models with TeV-scale SUSY breaking
+ Dijet cross sections in ep collisions: who is afraid of symmetric cuts?
+ Hadronic vacuum polarization effects in alpha_{em}(M_Z)
+ Neutralino Dark Matter from MSSM Flat Directions in light of WMAP Result
+ Neutrino mass matrices leaving no trace
+ The QCD Pomeron in ultraperipheral heavy ion collisions: III.  Photonuclear production of heavy quarks
+ Testing Color Evaporation in Photon-Photon Production of J/Psi at CERN  LEP II
+ Soft-Collinear Messengers: A New Mode in Soft-Collinear Effective Theory
+ Progress in the physics of massive neutrinos
+ e+e- --> H+ e- nubar in the two-Higgs-doublet model
+ Excited L=1 baryons in large Nc QCD
+ Spectator Effects in the Decay B -> K γγ
+ General subtraction method for numerical calculation of one-loop QCD  matrix elements
+ About Possibility for Examination of Gravity Theories Using the Precise  Measurement of Particle Lifetime
+ Evidence that the a0(980) and f0(980) are not elementary particles
+ Neutrino Production of Resonances
+ Exclusive electromagnetic production of strangeness on the nucleon :  review of recent data in a Regge approach
+ The Forward Backward asymmetries of $B \to X_s τ^+ τ^-$ in the  MSSM
+ Electroweak Precision Data and the Higgs Mass - Workshop Summary
+ How generic is cosmic string formation in SUSY GUTs
+ Confinement versus Chiral Symmetry
+ S-wave pi-pi scattering lengths
+ Nuclear and nucleon transitions of the H di-baryon
+ Probing the minimal length scale by precision tests of the muon g-2
+ The description of pp-interactions with very high multiplicity at 70  GeV/c by Two Stage Gluon Model
+ Leptoproduction of Vector Mesons at Small $\xbj$ and Generalized Parton  Distributions
+ CP asymmetries in neutralino production in e+e- collisions
+ Measuring Resonance Parameters of Heavy Higgs Bosons at TESLA
+ CP asymmetries in neutralino production
+ Trying to understand the Standard Model parameters
+ Electroweak Physics
+ Improved full one-loop corrections to A^0 -> \sf_1 \sf_2 and \sf_2 ->  \sf_1 A^0
+ Nature of the Chiral Restoration Transition in QCD
+ Anomaly Free Gauged $SU(4)_L\times U(1)_X$ Models with Little Higgs
+ Weak decays of the B_c meson to B_s and B mesons in the relativistic  quark model
+ Heavy quarkonium hyperfine structure and leptonic decays
+ The Lorentz and CPT violating effects on the Z\to l^+ l^- decay
+ New study of the isotensor pi-pi interaction
+ PYTHIA 6.3 Physics and Manual
+ Strangeness Excitation Function in Heavy Ion Collisions
+ Conditions for Confinement and Freeze-Out
+ Symmetric Textures in SO(10) and LMA Solution for Solar Neutrinos
+ Sivers Function in the MIT Bag Model
+ F-term Inflation and Leptogenesis with 5D SO(10)
+ mSUGRA At A 500-GeV Linear Collider
+ Higgsino mass matrix ansatz for MSSM
+ CP asymmetries in penguin-induced B decays in general left-right models
+ Pi-pi scattering at low energy: S-wave phase shifts and scattering  lengths
+ Single-Spin Beam Asymmetry in Semi-Exclusive Deep-Inelastic  Electroproduction
+ Prompt J/psi production in charged-current deep-inelastic scattering
+ On Extracting Heavy Quark Parameters from Moments with Cuts
+ Observation of the Dsj(2463) and Confirmation of the Dsj*(2317)
+ Corrections to b, t quark masses and $τ$ lepton mass in SUGRA  including CP phases
+ Neutrino Interferometry In Curved Spacetime
+ Large Scale Air Shower Simulations and the Search for New Physics at  AUGER
+ A search for the fourth SM family quarks at Tevatron
+ Effective chiral lagrangian in the chiral limit from the instanton  vacuum
+ Symmetry restoration of the soft pion corrections for the light sea  quark distributions in the small $x$ region
+ Spontaneous baryogenesis in flat directions
+ Curvatons in Supersymmetric Models
+ Discriminating among Earth composition models using geo-antineutrinos
+ Pentaquark Theta+, constituent quark structures, and prediction of  charmed Theta(c)^0 and bottomed Theta(b)^+
+ Power counting in relativistic baryon chiral perturbation theory
+ A Kinematically Complete Analysis of the CLAS data on the Proton  Structure Function $F_2$ in a Regge-Dual model
+ Exclusive electroproduction of J/psi mesons
+ Phenomenology of New Physics
+ Quark-Antiquark Exchange in $γ^* γ^*$ Scattering
+ Duality in the Color Flavor Locked Spectrum
+ Aspects of Diffraction at the Tevatron
+ Topological Defect Density in One-Dimensional Friedmann-Robertson-Walker  Cosmological Model: Corrections Inferred from the  Multi-Josephson-Junction-Loop Experiment
+ Theoretical Introduction to B Decays and the Soft-Collinear Effective  Theory
+ Components of Antineutrino Emission in Nuclear Reactor
+ Neutrino Masses in 5D Orbifold SU(5) Unification Models without  Right-handed Singlets
+ Mixed high energy neutrinos from cosmos
+ Leading twist coherent diffraction on nuclei in deep inelastic  scattering at small x and nuclear shadowing
+ Massive photons in particle and laser physics
+ Chiral dynamics and the growth of the nucleon's gluonic transverse size  at small x
+ Entropy for Colored Quark States at Finite Temperature
+ Learning about the chiral structure of the proton from the hyperfine  splitting
+ Feynman rules for the strong and $ΔS =1$ weak chiral Lagrangian
+ Next-to-leading order QCD predictions for W+2j and Z+2j production at  the CERN LHC
+ Phenomenology of low-scale supersymmetry breaking models
+ Minimal SUSY SO(10) model and predictions for neutrino mixings and  leptonic CP violation
+ CP Violation in the 3 Jet and 4 Jet Decays of the Z Boson at GigaZ
+ TeV Symmetry and the Little Hierarchy Problem
+ CP conserved nonleptonic $K \to πππ$ decays in the Chiral Quark  Model
+ SuperWIMPs in Supergravity
+ Cosmological gravitino problem confronts electroweak physics
+ Full ${\cal O}(α_{ew})$ electroweak corrections to $e^+e^- \to H H  Z$
+ High Order QED Corrections in Physics of Positronium
+ Understanding the Possible Proton Antiproton Bound State Observed by BES  Collaboration
+ Double Beta Decay and the Absolute Neutrino Mass Scale
+ Harmonic quarks: properties and some applications
+ Apparent Lorentz violation through spacetime-varying couplings
+ Monte-Carlo Simulation of Exclusive Channels in e+e- Annihilation at Low  Energy
+ Effects of SUSY-QCD in hadronic Higgs production at  next-to-next-to-leading order
+ Absence of isentropic expansion in various inflation models
+ Chiral fermion mass and dispersion relations at finite temperature in  the presence of hypermagnetic fields
+ Updated Estimate of the Muon Magnetic Moment Using Revised Results from  e+e- Annihilation
+ Decays of the B_c meson
+ Pair production of charged Higgs bosons in association with bottom quark  pairs at the Large Hadron Collider
+ O(αα_s) correction to the pole mass of the t-quark within the  Standard Model
+ Deconfinement Phase Transition in an Expanding Quark system in  Relaxation Time Approximation
+ Fermionic partner of Quintessence field as candidate for dark matter
+ "Point-form" estimate of the pion form factor revisited
+ Limit on the fermion masses in technicolor models
+ QCD Corrections to Photoproduction of W Bosons at HERA
+ Next-to-next-to-leading order soft-gluon corrections in top quark  hadroproduction
+ The Study of the Heisenberg-Euler Lagrangian and Some of its  Applications
+ A mixing-independent construction of the unitarity triangle
+ Direct CP Violation and Isospin Triangles of B->ππDecays
+ Neutral Higgs boson pair production via $γγ$ collision in the  minimal supersymmetric standard model at linear colliders
+ Resolving degeneracies for different values of $θ_{13}$
+ Observing Direct CP Violation in Untagged B-Meson Decays
+ Forces, fluxes and quasi-particles in hot QCD
+ Are there non-strange low-lying penta-quarks and can we understand their  width
+ Three loop soft running, benchmark points and semi-perturbative  unification
+ $Θ^+$ in a chiral constituent quark model and its interpolating  fields
+ Partons and Jets at the LHC
+ Summary of Spin Physics Parallel Sessions
+ Perturbative and non-perturbative aspects of heavy-quark fragmentation
+ Supergravity Interactions in the SU(4)XU(1)Vacuum of Global  Supersymmetry
+ The Pion Velocity at Chiral Restoration and the Vector Manifestation
+ R-parity violation effect on the top-quark pair production at linear  colliders
+ Note on spin carried by quarks
+ Glueballs, closed fluxtubes and eta(1440)
+ Can Low Mass Scalar Meson Nonet Survive in Large N_c Limit ?
+ Magnetic moments of exotic pentaquarks in the chiral quark-soliton model
+ Rare Decays $B^0 \to D_s^{(*)+} D_s^{(*)-}$ and $B_s^0 \to D^{(*)+}  D^{(*)-}$ in Perturbative QCD Approach
+ $J/ψ+ c + \bar{c}$ Photoproduction in $e^+ e^-$ Scattering
+ Balance functions in coalescence model
+ Separation of soft and collinear singularities from one-loop N-point  integrals
+ Triple gauge vertices at one-loop level in THDM
+ Hard probes in heavy ion collisions at the LHC: PDFs, shadowing and $pA$  collisions
+ QCD Sum Rules on the Light-Cone, Factorisation and SCET
+ Quark distributions in polarized and nonpolarized hadrons
+ WMAPing the Universe: Supersymmetry, Dark Matter, Dark Energy, Proton  Decay and Collider Physics
+ Quintessentially Flat Scalar Potentials
+ Constraints on Field Theoretical Models for Variation of the Fine  Structure Constant
+ Implications of the DAMA and CRESST experiments for mirror matter-type  dark matter
+ $B\to φK_s$ versus Electric Dipole Moment of $^{199}$Hg Atom in  Supersymmetric Models with Right-handed Squark Mixing
+ The Rare Radiative Annihilation Decays $\bar{B}^0_{s,d} \to  J/ψγ$
+ Weak phases from topological-amplitude parametrization
+ Implications of Bi-Large Neutrino Mixing on GUTs
+ Form Factors and semileptonic decay of $D_s^+\to φ\bar{\ell}ν$  from QCD sum rule
+ Effect of H^\pm on D^\pm_s\to μ^\pmνand D^\pm_s\to τ^\pmν
+ Leptogenesis
+ Sensitivity of CKM fits to theoretical uncertainties and their  representation
+ Open-charm meson resonances with negative strangeness
+ Radiative CP violation in the Higgs sector of the Next-to-minimal  supersymmetric model
+ Ground state correlations in Deep Inelastic Scattering and the Drell-Yan  process
+ TASI Lectures on Effective Field Theories
+ K Kbar photoproduction and S-P wave interference
+ The low lying glueball spectrum
+ Factorization fits and the unitarity triangle in charmless two-body B  decays
+ High energy tau neutrinos: production, propagation and prospects of  observations
+ Spinodal decomposition during the hadronization stage at RHIC?
+ Some remarks on geometric scaling
+ Vacuum replicas in two-dimensional QCD
+ Comment on the proper QCD string dynamics in a heavy-light system
+ Background Analysis around Q_(beta-beta) for 76Ge Double Beta Decay  experiments, and Statistics at Low Count Rates
+ Primordial Lepton Family Asymmtries in Seesaw Model
+ Comment on the narrow charmonium state of Belle at 3871.8 MeV as a  deuson
+ Extrinsic CPT Violation in Neutrino Oscillations
+ A Linear Evolution for Non-Linear Dynamics and Correlations in Realistic  Nuclei
+ Relativistic Bound States
+ Lorentz and CPT Tests in Matter and Antimatter
+ Tripartite Neutrino Mass Matrix
+ Diffractive Higgs boson production at Tevatron and LHC: an experimental  review
+ BFKL Dynamics in Jet Evolution
+ R Parity Violating Decays of the Gluino
+ Z^* Resonances: Phenomenology and Models
+ Electroweak High-Energy Scattering and the Chiral Anomaly
+ Analytic Invariant Charge in QCD
+ Reanalysis of QCD sum rules for nucleon with perturbative correction
+ Holography, Entropy and Extra Dimensions
+ Scalar Particles in Lattice QCD
+ Radiative muon (pion) pair production in high energy electron-positron  annihilation (the case of small invariant pair mass)
+ Hybrid Mesons from the Lattice
+ Structure of baryons in a relativistic quark model
+ Curvaton Potential Terms, Scale-Dependent Perturbation Spectra and  Chaotic Initial Conditions
+ Semileptonic decays of polarised top quarks: V + A admixture and QCD  corrections
+ Flavour SU(3) Symmetry in Charmless B Decays
+ $\bar B^0\to φK_S$ and $\bar K^{*0}γ$ CP Asymmetries from  Supersymmetric Right-handed Flavor Mixing: Implications for Heavy Quark  Phenomenology
+ LSND anomaly from CPT violation in four-neutrino models
+ Lorentz and CPT Violation in the Neutrino Sector
+ Optimal Renormalization-Group Improvement of Two Radiatively-Broken  Gauge Theories
+ Heavy-quark recombination in Z^0 decay
+ Spectator interactions and factorization in B -> pi ell nu decay
+ Dilepton Transverse Momentum in the Color Dipole Approach
+ CP violating SUSY effects in Penguin dominated modes B -> PHI K and B ->  PHI K*
+ Phase-space density in heavy-ion collisions revisited
+ Covariant Classification Scheme of Hadrons and Chiral States
+ Properties of sigma and kappa Production Amplitudes
+ Relation between Scattering and Production Amplitudes -- Case of sigma  and kappa in pipi and Kpi Systems --
+ Ground State Baryons in Covariant Level-Classification Scheme
+ The massless two-loop two-point function
+ The radiative return at phi- and B-factories: FSR at next-to-leading  order
+ Photoproduction of Theta baryon from the neutron
+ The present situation in the determination of $α_s$
+ From Color Glass to Color Dipoles in high-energy onium--onium scattering
+ Automated resummation of jet observables in QCD
+ Study of Quartic Boson Vertices at Photon Colliders in the Standard  Model and Beyond
+ On the structure of the scalar and D mesons
+ Factorization and Sudakov Resummation in B -> gamma l nu
+ Pomeron fan diagrams with an infrared cutoff and running coupling
+ Mein Ruf to Search New Strange $a_2^s(1520)$-meson
+ Nuclear and Particle Astrophysics at CIPANP 2003
+ Enhancement of Non-Gaussianity after Inflation
+ The Force of Gravity from a Lagrangian containing Inverse Powers of the  Ricci Scalar
+ Optical Activity From Extra Dimension
+ Acceleration parameter of the Universe expansion and cosmological  equation of state
+ Neutron Stars as Type-I Superconductors
+ Age constraints and fine tuning in variable-mass particle models
+ Energy Release in Air Showers
+ Non-commutative inflation and the CMB
+ Constraints on Lorentz Invariance Violating Quantum Gravity and Large  Extra Dimensions Models using High Energy Gamma Ray Observations
+ Neutrino signatures of the supernova - gamma ray burst relationship
+ Towards a complete theory of Gamma Ray Bursts
+ Synchrotron Radiation from the Crab Nebula Discriminates between Models  of Space-Time Foam
+ Accelerated closed universes in scalar-tensor theories
+ Noncommutative Inflation and the CMB Multipoles
+ Can homogeneous extra dimensions be stabilized during matter domination?
+ Magnetic oscillations in planar systems with the Dirac-like spectrum of  quasiparticle excitations
+ Interior gap superfluidity in a two-component Fermi gas of atoms
+ Brane-cosmology dynamics with induced gravity
+ Modeling Quasi-elastic Form Factors for Electron and Neutrino Scattering
+ Modeling Neutrino and Electron Scattering Inelastic Cross Sections
+ Electromagnetic Properties of the Baryon Decuplet in Quenched and  Partially Quenched Chiral Perturbation Theory
+ An Abelian effective action reproducing screening and confinement in  quenched SU(2) QCD
+ QCD Dirac operator at nonzero chemical potential: lattice data and  matrix model
+ Entropy of monopoles from percolating cluster in quenched SU(2) QCD
+ Blocked lattice monopoles in quenched SU(2) QCD and dual superconductor  model
+ Gluodynamics in External Field: A Test of the Dual Superconductor  Picture
+ Finite-Volume Partially-Quenched Two-Pion Amplitudes in the I=0 Channel
+ Lattice calculations of hadron properties
+ Calorons and fermion zero-modes
+ How light can the Higgs be?
+ Determination of monopole condensate from monopole action in quenched  SU(2) QCD
+ Numerical study of gluon propagators in Maximally Abelian gauge
+ A BCS Gap on the Lattice
+ Monopoles in Abelian Polyakov gauge and projection (in)dependence of the  dual superconductor mechanism of confinement
+ Does the crossover from perturbative to nonperturbative physics in QCD  become a phase transition at infinite N ?
+ $J/ψ$ and $η_c$ in the Deconfined Plasma from Lattice QCD
+ Brane Structure from a Scalar Field in Warped Spacetime
+ Supersymmetric Intersecting D6-branes and Fluxes in Massive Type IIA  String Theory
+ Towards Inflation in String Theory
+ Assigning Quantum-Mechanical Initial Conditions to Cosmological  Perturbations
+ Understanding the Strong Coupling Limit of the ${\cal N}=4$  Supersymmetric Yang-Mills at Finite Temperature
+ Nearly Scale-Invariant Spectrum of Adiabatic Fluctuations May be from a  Very Slowly Expanding Phase of the Universe
+ New soluble nonlinear models for scalar fields
+ Color superconductivity, Z_N flux tubes and monopole confinement in  deformed N=2* super Yang-Mills theories
+ Dilaton Dynamics in (A)dS_5 x S^5
+ Analytical solution of the Gross-Neveu model at finite density
+ Dilaton Stabilization in (A)dS Spacetime with Compactified Dimensions
+ Two-fermion relativistic bound states in Light-Front Dynamics
+ A Quantum Analysis on Recombination of D-branes and its Implications for  an Inflation Model
+ Reference Design Project Book: NUSEL-Homestake
+ Physics Chapter: NUSEL-Homestake Science Book
+ Pentaquark baryon production at the Relativistic Heavy Ion Collider
+ f_2, sigma, and 2-pi exchanges in rho meson photoproduction
+ Improving the convergence of the chiral expansion for nuclear forces II:  low phases and the deuteron
+ K+ nucleon scattering and exotic S=+1 Baryons
+ QCD sum rules for hyperon-nucleon interactions
+ How big is the source that produces quark gluon plasma in heavy ion  collisions?
+ Linear Langevin Equation of Critical Fluctuation in Chiral Phase  Transition
+ Multiparton Tomography of Hot and Cold Nuclear Matter
+ Cronin effect vs. geometrical shadowing in d+Au collisions at RHIC
+ Exploring proton rich systems and Coulomb induced instabilities
+ Soft Pion Emission in DVCS
+ DSEs, the pion, and related matters
+ Chiral solitons in nuclei: Saturation, EMC effect and Drell-Yan  experiments
+ Dynamical Correlation Length near the Chiral Critical Point
+ Elliptic flow of multi-strange particles: fragmentation, recombination  and hydrodynamics
+ Spin Polarizabilities of the Nucleon from Polarized Low Energy Compton  Scattering
+ Effects of Dirac sea polarization on hadronic properties - A chiral  SU(3) approach
+ Traces of Thermalization from Transverse Momentum Fluctuations in  Nuclear Collisions
+ Electroproduction of hadrons on nuclei at GeV energies
+ Mass modification of D-meson in hot hadronic matter
+ Observing Chiral Nonanalytic Behavior with FLIC Fermions
+ Exclusive $K^+$ production in proton-nucleus collisions
+ The $p(d,d^{\prime})$ Reaction and the $σNN^{\ast}(1440)$ Coupling  Constant
+ Brane Worlds, the Subanthropic Principle and the Undetectability  Conjecture
+ Testing quantum duality using cold Rydberg atoms
+ Comment on "Measurement of quantum states of neutrons in the Earth's  gravitational field"
