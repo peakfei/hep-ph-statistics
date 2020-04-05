@@ -16,4 +16,6 @@ Function descriptions:
 
 Final example:
 ![figure](https://github.com/peakfei/hep-ph-statistics/blob/master/screenshots/test1.png)
+
+<div align=center><img width="150" height="150" src="https://github.com/peakfei/hep-ph-statistics/blob/master/screenshots/test1.png"/></div>
 If you have any question, please contact xiangqf@pku.edu.cn
