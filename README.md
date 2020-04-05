@@ -15,5 +15,5 @@ Function descriptions:
  asked_number_of_papers | return the number of paper satisfying keywords
 
 Final example:
-![image](https://github.com/peakfei/hep-ph-statistics/tree/master/screenshots/test1.png)
+![login](https://github.com/peakfei/hep-ph-statistics/screenshots/test1.png)
 If you have any question, please contact xiangqf@pku.edu.cn
